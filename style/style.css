@@ -18,6 +18,7 @@ text-align: center;
 border-radius: 8px;
 background: rgb(82, 195, 3);
 border: none;
+cursor: pointer;
 }
 
 #hero{
